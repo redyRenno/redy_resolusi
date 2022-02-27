@@ -1,2 +1,2 @@
 # redy_resolusi
-Rencana untuk tahun 2022
+Repository untuk menyimpan rencana saya kedepannya
